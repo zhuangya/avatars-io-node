@@ -1,0 +1,16 @@
+{
+	"name": "avatars.io",
+	"version": "0.1.0",
+	"description": "Avatars.io client",
+	"author": "Vadim Demedes <sbioko@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"request": "2.9.202"
+	},
+	"devDependencies": {
+		"should": "*"
+	},
+	"engine": {
+		"node": ">= 0.4"
+	}
+}
