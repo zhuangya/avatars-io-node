@@ -1,5 +1,7 @@
 # Avatars.io client library
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zhuangya/avatars-io-node.svg)](https://greenkeeper.io/)
+
 Hosted User Avatar Service for your Apps and Site.
 
 # Installation
