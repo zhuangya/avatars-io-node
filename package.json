@@ -5,7 +5,7 @@
 	"author": "Vadim Demedes <sbioko@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
-		"request": "2.9.202"
+		"request": "2.88.0"
 	},
 	"devDependencies": {
 		"should": "*"
